@@ -1,0 +1,2 @@
+No separate AUTHORS or CONTRIBUTORS file was found.
+See LICENSE.txt and SOURCE.txt for available attribution information.

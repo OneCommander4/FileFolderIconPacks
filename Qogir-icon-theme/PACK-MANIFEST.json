@@ -1,0 +1,44 @@
+[
+  {
+    "root": "C:\\Milos\\IconCollections\\Qogir-icon-theme-master",
+    "project": "Qogir-icon-theme",
+    "style": "default",
+    "styleLabel": "Qogir-icon-theme - Default",
+    "filePack": true,
+    "genericFile": "Qogir-icon-theme-master\\Qogir-icon-theme-master\\src\\scalable\\mimetypes\\text-x-generic.svg",
+    "typeIcons": 66,
+    "filenameIcons": 0,
+    "folderPack": true,
+    "genericFolder": "Qogir-icon-theme-master\\Qogir-icon-theme-master\\src\\scalable\\places\\default-folder.svg",
+    "openedFolder": "Qogir-icon-theme-master\\Qogir-icon-theme-master\\src\\16\\places\\folder-open.svg",
+    "folderNameIcons": 0,
+    "systemIcons": [
+      "Downloads",
+      "Desktop",
+      "Music",
+      "Templates",
+      "Public"
+    ]
+  },
+  {
+    "root": "C:\\Milos\\IconCollections\\Qogir-icon-theme-master",
+    "project": "Qogir-icon-theme",
+    "style": "symbolic",
+    "styleLabel": "Qogir-icon-theme - Symbolic",
+    "filePack": true,
+    "genericFile": "Qogir-icon-theme-master\\Qogir-icon-theme-master\\src\\scalable\\mimetypes\\text-x-generic.svg",
+    "typeIcons": 5,
+    "filenameIcons": 0,
+    "folderPack": true,
+    "genericFolder": "Qogir-icon-theme-master\\Qogir-icon-theme-master\\src\\scalable\\places\\default-folder.svg",
+    "openedFolder": "Qogir-icon-theme-master\\Qogir-icon-theme-master\\src\\16\\places\\folder-open.svg",
+    "folderNameIcons": 0,
+    "systemIcons": [
+      "Downloads",
+      "Desktop",
+      "Music",
+      "Templates",
+      "Public"
+    ]
+  }
+]

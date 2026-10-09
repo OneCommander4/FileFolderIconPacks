@@ -1,0 +1,48 @@
+[
+  {
+    "root": "C:\\Milos\\IconCollections\\papirus-icon-theme-master",
+    "project": "papirus-icon-theme",
+    "style": "default",
+    "styleLabel": "papirus-icon-theme - Default",
+    "filePack": true,
+    "genericFile": "papirus-icon-theme-master\\papirus-icon-theme-master\\Papirus\\16x16\\mimetypes\\text-x-generic.svg",
+    "typeIcons": 60,
+    "filenameIcons": 0,
+    "folderPack": true,
+    "genericFolder": "papirus-icon-theme-master\\papirus-icon-theme-master\\Papirus\\16x16\\places\\folder.svg",
+    "openedFolder": "papirus-icon-theme-master\\papirus-icon-theme-master\\Papirus\\16x16\\places\\folder-open.svg",
+    "folderNameIcons": 0,
+    "systemIcons": [
+      "Documents",
+      "Downloads",
+      "Desktop",
+      "Music",
+      "Pictures",
+      "Templates",
+      "Public"
+    ]
+  },
+  {
+    "root": "C:\\Milos\\IconCollections\\papirus-icon-theme-master",
+    "project": "papirus-icon-theme",
+    "style": "symbolic",
+    "styleLabel": "papirus-icon-theme - Symbolic",
+    "filePack": true,
+    "genericFile": "papirus-icon-theme-master\\papirus-icon-theme-master\\Papirus\\16x16\\mimetypes\\text-x-generic.svg",
+    "typeIcons": 1,
+    "filenameIcons": 0,
+    "folderPack": true,
+    "genericFolder": "papirus-icon-theme-master\\papirus-icon-theme-master\\Papirus\\16x16\\places\\folder.svg",
+    "openedFolder": "papirus-icon-theme-master\\papirus-icon-theme-master\\Papirus\\16x16\\places\\folder-open.svg",
+    "folderNameIcons": 0,
+    "systemIcons": [
+      "Documents",
+      "Downloads",
+      "Desktop",
+      "Music",
+      "Pictures",
+      "Templates",
+      "Public"
+    ]
+  }
+]

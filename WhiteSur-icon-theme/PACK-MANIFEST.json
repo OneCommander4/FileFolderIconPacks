@@ -1,0 +1,71 @@
+[
+  {
+    "root": "C:\\Milos\\IconCollections\\WhiteSur-icon-theme-master",
+    "project": "WhiteSur-icon-theme",
+    "style": "alternative",
+    "styleLabel": "WhiteSur-icon-theme - Alternative",
+    "filePack": true,
+    "genericFile": "WhiteSur-icon-theme-master\\WhiteSur-icon-theme-master\\src\\mimes\\scalable\\text-x-generic.svg",
+    "typeIcons": 8,
+    "filenameIcons": 0,
+    "folderPack": true,
+    "genericFolder": "WhiteSur-icon-theme-master\\WhiteSur-icon-theme-master\\alternative\\places\\scalable\\folder.svg",
+    "openedFolder": "WhiteSur-icon-theme-master\\WhiteSur-icon-theme-master\\alternative\\places\\scalable\\folder-open.svg",
+    "folderNameIcons": 0,
+    "systemIcons": [
+      "Documents",
+      "Downloads",
+      "Desktop",
+      "Music",
+      "Videos",
+      "Templates",
+      "Public"
+    ]
+  },
+  {
+    "root": "C:\\Milos\\IconCollections\\WhiteSur-icon-theme-master",
+    "project": "WhiteSur-icon-theme",
+    "style": "default",
+    "styleLabel": "WhiteSur-icon-theme - Default",
+    "filePack": true,
+    "genericFile": "WhiteSur-icon-theme-master\\WhiteSur-icon-theme-master\\src\\mimes\\scalable\\text-x-generic.svg",
+    "typeIcons": 72,
+    "filenameIcons": 0,
+    "folderPack": true,
+    "genericFolder": "WhiteSur-icon-theme-master\\WhiteSur-icon-theme-master\\src\\places\\scalable\\folder.svg",
+    "openedFolder": "WhiteSur-icon-theme-master\\WhiteSur-icon-theme-master\\src\\places\\scalable\\folder-open.svg",
+    "folderNameIcons": 0,
+    "systemIcons": [
+      "Documents",
+      "Downloads",
+      "Desktop",
+      "Music",
+      "Videos",
+      "Templates",
+      "Public"
+    ]
+  },
+  {
+    "root": "C:\\Milos\\IconCollections\\WhiteSur-icon-theme-master",
+    "project": "WhiteSur-icon-theme",
+    "style": "symbolic",
+    "styleLabel": "WhiteSur-icon-theme - Symbolic",
+    "filePack": true,
+    "genericFile": "WhiteSur-icon-theme-master\\WhiteSur-icon-theme-master\\src\\mimes\\scalable\\text-x-generic.svg",
+    "typeIcons": 6,
+    "filenameIcons": 0,
+    "folderPack": true,
+    "genericFolder": "WhiteSur-icon-theme-master\\WhiteSur-icon-theme-master\\src\\places\\scalable\\folder.svg",
+    "openedFolder": "WhiteSur-icon-theme-master\\WhiteSur-icon-theme-master\\src\\places\\scalable\\folder-open.svg",
+    "folderNameIcons": 0,
+    "systemIcons": [
+      "Documents",
+      "Downloads",
+      "Desktop",
+      "Music",
+      "Videos",
+      "Templates",
+      "Public"
+    ]
+  }
+]

@@ -1,0 +1,82 @@
+Project:
+breeze-icons
+
+Original repository:
+Not detected
+
+Repository folder:
+breeze-icons-master
+
+Upstream version:
+Not detected
+
+Upstream revision:
+Not detected
+
+Archive/source snapshot:
+breeze-icons-master.zip
+
+Primary license:
+LGPL-2.1
+
+Original authors/project:
+Not explicitly detected
+
+Original license files:
+breeze-icons-master/COPYING-ICONS
+breeze-icons-master/COPYING.LIB
+[local]/COPYING-ICONS.txt
+
+Original attribution files:
+No dedicated attribution files found
+
+Original icon locations:
+breeze-icons-master/icons/mimetypes/16
+breeze-icons-master/icons/mimetypes/22
+breeze-icons-master/icons/mimetypes/32
+breeze-icons-master/icons/mimetypes/64
+
+Processing performed:
+- Selected SVG artwork representing file formats, file extensions, MIME types, document types, programming languages, archives, media formats, or similar file types.
+- Excluded unrelated application, toolbar, action, folder, device, status, UI, emblem, and operating-system icons unless explicitly associated with file types.
+- Resolved aliases and MIME mappings where possible using repository association data, MIME names, and common MIME-extension databases.
+- Copied selected SVG files into the output directory without modifying SVG artwork.
+- Renamed copied files using extension-based OneCommander filenames.
+- Grouped extensions sharing byte-identical artwork into comma-separated filenames where applicable.
+- Separated meaningful visual variants; resolution-only copies were not treated as separate themes.
+- Original repository files and ZIP archives were not modified.
+- FolderThumbInside.svg was created from existing folder icon by removing the front part of the folder
+
+Filename convention:
+Generated filenames represent supported extensions.
+
+Examples:
+    pdf.svg
+    jpg,jpeg,jpe.svg
+    tif,tiff.svg
+    zip.svg
+    htm,html.svg
+
+Extensions in filenames:
+Extensions are lowercase and do not include a leading period.
+
+License notice:
+The artwork in this output remains subject to the license(s), copyright notices, attribution requirements, and trademark rights of the original project and its contributors. See LICENSE.txt, AUTHORS.txt, and the upstream project.
+
+OneCommander relationship:
+This directory is a processed/repackaged icon theme intended to be loaded as external artwork by OneCommander. OneCommander itself is separate software and is distributed under its own license.
+
+Third-party trademarks:
+Some icons may depict or incorporate names, logos, or trademarks belonging to third parties. The repository artwork license does not necessarily grant trademark rights. Preserve explicit upstream trademark notices.
+
+Generated:
+2026-09-29
+
+============================================================
+ONECOMMANDER PACKAGE ASSEMBLY
+============================================================
+
+Pack: breeze-icons
+Style: svg
+Category: Folders
+Artwork was copied without visual modification. Files were reorganized and renamed for OneCommander matching.

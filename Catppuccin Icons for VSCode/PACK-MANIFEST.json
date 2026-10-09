@@ -1,0 +1,94 @@
+[
+  {
+    "root": "C:\\Milos\\IconCollections\\vscode-icons-main",
+    "project": "Catppuccin Icons for VSCode",
+    "style": "frappe",
+    "styleLabel": "Catppuccin Icons for VSCode - Frappe",
+    "filePack": true,
+    "genericFile": "vscode-icons-main\\vscode-icons-main\\icons\\frappe\\_file.svg",
+    "typeIcons": 226,
+    "filenameIcons": 261,
+    "folderPack": true,
+    "genericFolder": "vscode-icons-main\\vscode-icons-main\\icons\\frappe\\_folder.svg",
+    "openedFolder": "vscode-icons-main\\vscode-icons-main\\icons\\frappe\\_folder_open.svg",
+    "folderNameIcons": 114,
+    "systemIcons": [
+      "Documents",
+      "Downloads",
+      "Music",
+      "Pictures",
+      "Videos",
+      "Templates",
+      "Public"
+    ]
+  },
+  {
+    "root": "C:\\Milos\\IconCollections\\vscode-icons-main",
+    "project": "Catppuccin Icons for VSCode",
+    "style": "latte",
+    "styleLabel": "Catppuccin Icons for VSCode - Latte",
+    "filePack": true,
+    "genericFile": "vscode-icons-main\\vscode-icons-main\\icons\\latte\\_file.svg",
+    "typeIcons": 226,
+    "filenameIcons": 261,
+    "folderPack": true,
+    "genericFolder": "vscode-icons-main\\vscode-icons-main\\icons\\latte\\_folder.svg",
+    "openedFolder": "vscode-icons-main\\vscode-icons-main\\icons\\latte\\_folder_open.svg",
+    "folderNameIcons": 114,
+    "systemIcons": [
+      "Documents",
+      "Downloads",
+      "Music",
+      "Pictures",
+      "Videos",
+      "Templates",
+      "Public"
+    ]
+  },
+  {
+    "root": "C:\\Milos\\IconCollections\\vscode-icons-main",
+    "project": "Catppuccin Icons for VSCode",
+    "style": "macchiato",
+    "styleLabel": "Catppuccin Icons for VSCode - Macchiato",
+    "filePack": true,
+    "genericFile": "vscode-icons-main\\vscode-icons-main\\icons\\macchiato\\_file.svg",
+    "typeIcons": 226,
+    "filenameIcons": 261,
+    "folderPack": true,
+    "genericFolder": "vscode-icons-main\\vscode-icons-main\\icons\\macchiato\\_folder.svg",
+    "openedFolder": "vscode-icons-main\\vscode-icons-main\\icons\\macchiato\\_folder_open.svg",
+    "folderNameIcons": 114,
+    "systemIcons": [
+      "Documents",
+      "Downloads",
+      "Music",
+      "Pictures",
+      "Videos",
+      "Templates",
+      "Public"
+    ]
+  },
+  {
+    "root": "C:\\Milos\\IconCollections\\vscode-icons-main",
+    "project": "Catppuccin Icons for VSCode",
+    "style": "mocha",
+    "styleLabel": "Catppuccin Icons for VSCode - Mocha",
+    "filePack": true,
+    "genericFile": "vscode-icons-main\\vscode-icons-main\\icons\\mocha\\_file.svg",
+    "typeIcons": 226,
+    "filenameIcons": 261,
+    "folderPack": true,
+    "genericFolder": "vscode-icons-main\\vscode-icons-main\\icons\\mocha\\_folder.svg",
+    "openedFolder": "vscode-icons-main\\vscode-icons-main\\icons\\mocha\\_folder_open.svg",
+    "folderNameIcons": 114,
+    "systemIcons": [
+      "Documents",
+      "Downloads",
+      "Music",
+      "Pictures",
+      "Videos",
+      "Templates",
+      "Public"
+    ]
+  }
+]

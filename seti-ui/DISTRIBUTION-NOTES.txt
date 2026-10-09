@@ -1,0 +1,12 @@
+seti-ui — distribution notes
+
+Detected license family: MIT
+
+Practical checklist for downloadable OneCommander ZIPs:
+- Include the upstream copyright notice and MIT permission text with every distributed ZIP.
+- The MIT license does not require publishing the full upstream repository or your repackaging scripts.
+- Preserve separate notices for any artwork identified as having another license.
+- Keep AUTHORS.txt, LICENSE.txt, and SOURCE.txt inside every downloadable Files or Folders pack.
+- Re-check upstream licensing when refreshing the artwork.
+
+This is a practical compliance summary, not legal advice.

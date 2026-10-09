@@ -1,0 +1,25 @@
+[
+  {
+    "root": "C:\\Milos\\IconCollections\\breeze-icons-master",
+    "project": "breeze-icons",
+    "style": "svg",
+    "styleLabel": "breeze-icons",
+    "filePack": true,
+    "genericFile": "breeze-icons-master\\breeze-icons-master\\icons\\mimetypes\\64\\text-x-generic.svg",
+    "typeIcons": 78,
+    "filenameIcons": 0,
+    "folderPack": true,
+    "genericFolder": "breeze-icons-master\\breeze-icons-master\\icons\\places\\64\\folder.svg",
+    "openedFolder": "breeze-icons-master\\breeze-icons-master\\icons\\places\\64\\folder-open.svg",
+    "folderNameIcons": 0,
+    "systemIcons": [
+      "Documents",
+      "Downloads",
+      "Desktop",
+      "Pictures",
+      "Videos",
+      "Templates",
+      "Public"
+    ]
+  }
+]

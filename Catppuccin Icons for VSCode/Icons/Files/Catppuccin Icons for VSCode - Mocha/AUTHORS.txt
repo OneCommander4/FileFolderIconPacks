@@ -1,0 +1,4 @@
+============================================================
+ATTRIBUTION FOUND IN: vscode-icons-main/README.md
+============================================================
+Copyright &copy; 2021-present <a href="https://github.com/catppuccin" target="_blank">Catppuccin Org</a>

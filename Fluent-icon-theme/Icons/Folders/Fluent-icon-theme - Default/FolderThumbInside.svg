@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 64 64">
+  <!-- Generator: Adobe Illustrator 30.8.2, SVG Export Plug-In . SVG Version: 2.1.4 Build 7)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #fff;
+      }
+
+      .st1 {
+        opacity: .25;
+      }
+
+      .st1, .st2 {
+        isolation: isolate;
+      }
+
+      .st2 {
+        opacity: .6;
+      }
+
+      .st2, .st3 {
+        fill: #198ee6;
+      }
+    </style>
+  </defs>
+  <path class="st2" d="M27,8.98h-14c-1.11,0-1.49,1.02-2,2.01h-3c-1.1,0-2,.89-2,1.99,0,0,0,0,0,0v7.01s-.02.25-.06.71c-.43,5.06.06,35.29.06,35.29h52.01V15.99s0-3,0-3c0-1.1-.89-2-1.99-2,0,0,0,0-.01,0h-26.99c-.59-.94-.89-2-2-2h0Z"/>
+  <path class="st0" d="M11,13.98c-1.11,0-2,.89-2,2v4.02h19.83l1.17-2.01c.56-.96.89-2,2-2h23c0-1.12-.89-2.01-2-2.01H11Z"/>
+  <rect class="st1" x="14" y="9.98" width="12" height="2" rx="1" ry="1"/>
+  <rect class="st0" x="9" y="15.99" width="46" height="37.51"/>
+  <path class="st3" d="M4,19.99"/>
+  <path class="st3" d="M6,19.99"/>
+</svg>

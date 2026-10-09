@@ -1,0 +1,71 @@
+[
+  {
+    "root": "C:\\Milos\\IconCollections\\Colloid-icon-theme-main",
+    "project": "Colloid-icon-theme",
+    "style": "alternative",
+    "styleLabel": "Colloid-icon-theme - Alternative",
+    "filePack": true,
+    "genericFile": "Colloid-icon-theme-main\\Colloid-icon-theme-main\\src\\mimetypes\\scalable\\text-x-generic.svg",
+    "typeIcons": 8,
+    "filenameIcons": 0,
+    "folderPack": true,
+    "genericFolder": "Colloid-icon-theme-main\\Colloid-icon-theme-main\\alternative\\places\\scalable\\folder.svg",
+    "openedFolder": "Colloid-icon-theme-main\\Colloid-icon-theme-main\\alternative\\places\\scalable\\folder-open.svg",
+    "folderNameIcons": 0,
+    "systemIcons": [
+      "Documents",
+      "Downloads",
+      "Desktop",
+      "Music",
+      "Videos",
+      "Templates",
+      "Public"
+    ]
+  },
+  {
+    "root": "C:\\Milos\\IconCollections\\Colloid-icon-theme-main",
+    "project": "Colloid-icon-theme",
+    "style": "default",
+    "styleLabel": "Colloid-icon-theme - Default",
+    "filePack": true,
+    "genericFile": "Colloid-icon-theme-main\\Colloid-icon-theme-main\\src\\mimetypes\\scalable\\text-x-generic.svg",
+    "typeIcons": 52,
+    "filenameIcons": 0,
+    "folderPack": true,
+    "genericFolder": "Colloid-icon-theme-main\\Colloid-icon-theme-main\\src\\places\\scalable\\folder.svg",
+    "openedFolder": "Colloid-icon-theme-main\\Colloid-icon-theme-main\\src\\places\\scalable\\folder-open.svg",
+    "folderNameIcons": 0,
+    "systemIcons": [
+      "Documents",
+      "Downloads",
+      "Desktop",
+      "Music",
+      "Videos",
+      "Templates",
+      "Public"
+    ]
+  },
+  {
+    "root": "C:\\Milos\\IconCollections\\Colloid-icon-theme-main",
+    "project": "Colloid-icon-theme",
+    "style": "symbolic",
+    "styleLabel": "Colloid-icon-theme - Symbolic",
+    "filePack": true,
+    "genericFile": "Colloid-icon-theme-main\\Colloid-icon-theme-main\\src\\mimetypes\\scalable\\text-x-generic.svg",
+    "typeIcons": 6,
+    "filenameIcons": 0,
+    "folderPack": true,
+    "genericFolder": "Colloid-icon-theme-main\\Colloid-icon-theme-main\\src\\places\\scalable\\folder.svg",
+    "openedFolder": "Colloid-icon-theme-main\\Colloid-icon-theme-main\\src\\places\\scalable\\folder-open.svg",
+    "folderNameIcons": 0,
+    "systemIcons": [
+      "Documents",
+      "Downloads",
+      "Desktop",
+      "Music",
+      "Videos",
+      "Templates",
+      "Public"
+    ]
+  }
+]

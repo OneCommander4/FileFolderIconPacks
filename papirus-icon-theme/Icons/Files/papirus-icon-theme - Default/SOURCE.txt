@@ -1,0 +1,91 @@
+Project:
+papirus-icon-theme
+
+Original repository:
+https://github.com/PapirusDevelopmentTeam/papirus-icon-theme
+
+Repository folder:
+papirus-icon-theme-master
+
+Upstream version:
+Not detected
+
+Upstream revision:
+Not detected
+
+Archive/source snapshot:
+papirus-icon-theme-master.zip
+
+Primary license:
+GPL-3.0
+
+Original authors/project:
+See AUTHORS.txt for explicit author/contributor attribution.
+
+Original license files:
+papirus-icon-theme-master/LICENSE
+[local]/LICENSE.txt
+
+Original attribution files:
+papirus-icon-theme-master/AUTHORS
+
+Original icon locations:
+papirus-icon-theme-master/Papirus/16x16/apps
+papirus-icon-theme-master/Papirus/16x16/mimetypes
+papirus-icon-theme-master/Papirus/16x16/symbolic/mimetypes
+papirus-icon-theme-master/Papirus/22x22/apps
+papirus-icon-theme-master/Papirus/22x22/mimetypes
+papirus-icon-theme-master/Papirus/22x22/symbolic/mimetypes
+papirus-icon-theme-master/Papirus/24x24/apps
+papirus-icon-theme-master/Papirus/24x24/mimetypes
+papirus-icon-theme-master/Papirus/24x24/symbolic/mimetypes
+papirus-icon-theme-master/Papirus/32x32/apps
+papirus-icon-theme-master/Papirus/32x32/mimetypes
+papirus-icon-theme-master/Papirus/48x48/apps
+papirus-icon-theme-master/Papirus/48x48/mimetypes
+papirus-icon-theme-master/Papirus/64x64/apps
+papirus-icon-theme-master/Papirus/64x64/mimetypes
+
+Processing performed:
+- Selected SVG artwork representing file formats, file extensions, MIME types, document types, programming languages, archives, media formats, or similar file types.
+- Excluded unrelated application, toolbar, action, folder, device, status, UI, emblem, and operating-system icons unless explicitly associated with file types.
+- Resolved aliases and MIME mappings where possible using repository association data, MIME names, and common MIME-extension databases.
+- Copied selected SVG files into the output directory without modifying SVG artwork.
+- Renamed copied files using extension-based OneCommander filenames.
+- Grouped extensions sharing byte-identical artwork into comma-separated filenames where applicable.
+- Separated meaningful visual variants; resolution-only copies were not treated as separate themes.
+- Original repository files and ZIP archives were not modified.
+
+Filename convention:
+Generated filenames represent supported extensions.
+
+Examples:
+    pdf.svg
+    jpg,jpeg,jpe.svg
+    tif,tiff.svg
+    zip.svg
+    htm,html.svg
+
+Extensions in filenames:
+Extensions are lowercase and do not include a leading period.
+
+License notice:
+The artwork in this output remains subject to the license(s), copyright notices, attribution requirements, and trademark rights of the original project and its contributors. See LICENSE.txt, AUTHORS.txt, and the upstream project.
+
+OneCommander relationship:
+This directory is a processed/repackaged icon theme intended to be loaded as external artwork by OneCommander. OneCommander itself is separate software and is distributed under its own license.
+
+Third-party trademarks:
+Some icons may depict or incorporate names, logos, or trademarks belonging to third parties. The repository artwork license does not necessarily grant trademark rights. Preserve explicit upstream trademark notices.
+
+Generated:
+2026-09-29
+
+============================================================
+ONECOMMANDER PACKAGE ASSEMBLY
+============================================================
+
+Pack: papirus-icon-theme
+Style: default
+Category: Files
+Artwork was copied without visual modification. Files were reorganized and renamed for OneCommander matching.

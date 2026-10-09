@@ -1,0 +1,24 @@
+[
+  {
+    "root": "C:\\Milos\\vscode-icons\\vscode-icons-master",
+    "project": "vscode-icons",
+    "style": "svg",
+    "styleLabel": "vscode-icons",
+    "filePack": true,
+    "genericFile": "icons\\default_file.svg",
+    "typeIcons": 550,
+    "filenameIcons": 518,
+    "folderPack": true,
+    "genericFolder": "icons\\default_folder.svg",
+    "openedFolder": "icons\\default_folder_opened.svg",
+    "folderNameIcons": 193,
+    "systemIcons": [
+      "Documents",
+      "Music",
+      "Pictures",
+      "Videos",
+      "Templates",
+      "Public"
+    ]
+  }
+]

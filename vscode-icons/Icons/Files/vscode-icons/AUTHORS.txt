@@ -1,0 +1,6 @@
+Project author:
+Roberto Huertas <roberto.huertas@outlook.com>
+https://robertohuertas.com
+
+Additional contributors:
+https://github.com/vscode-icons/vscode-icons/graphs/contributors

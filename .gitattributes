@@ -1,0 +1,14 @@
+# Keep repository text files consistent across platforms.
+* text=auto
+
+*.svg  text eol=lf
+*.md   text eol=lf
+*.txt  text eol=lf
+*.json text eol=lf
+
+*.png  binary
+*.jpg  binary
+*.jpeg binary
+*.gif  binary
+*.webp binary
+*.ico  binary

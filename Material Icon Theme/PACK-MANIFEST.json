@@ -1,0 +1,26 @@
+[
+  {
+    "root": "C:\\Milos\\IconCollections\\vscode-material-icon-theme-main",
+    "project": "Material Icon Theme",
+    "style": "svg",
+    "styleLabel": "Material Icon Theme",
+    "filePack": true,
+    "genericFile": null,
+    "typeIcons": 361,
+    "filenameIcons": 394,
+    "folderPack": true,
+    "genericFolder": null,
+    "openedFolder": null,
+    "folderNameIcons": 265,
+    "systemIcons": [
+      "Documents",
+      "Downloads",
+      "Desktop",
+      "Music",
+      "Pictures",
+      "Videos",
+      "Templates",
+      "Public"
+    ]
+  }
+]

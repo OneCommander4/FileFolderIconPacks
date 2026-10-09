@@ -1,0 +1,13 @@
+breeze-icons — distribution notes
+
+Detected license family: GNU LGPL
+
+Practical checklist for downloadable OneCommander ZIPs:
+- Include the LGPL text, copyright notices, attribution, and source provenance.
+- Keep modifications to LGPL-covered artwork available in preferred editable form.
+- Publishing the entire upstream repository is not automatically required for an unmodified source-form subset, but retain a matching source archive and clear upstream link.
+- Do not add restrictions that prevent recipients from exercising LGPL rights.
+- Keep AUTHORS.txt, LICENSE.txt, and SOURCE.txt inside every downloadable Files or Folders pack.
+- Re-check upstream licensing when refreshing the artwork.
+
+This is a practical compliance summary, not legal advice.

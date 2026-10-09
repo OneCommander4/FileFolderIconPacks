@@ -1,0 +1,14 @@
+Tela-icon-theme — distribution notes
+
+Detected license family: GNU GPL
+
+Practical checklist for downloadable OneCommander ZIPs:
+- Keep the redistributed artwork under the applicable GPL and include the complete license and copyright notices.
+- The ZIP contains editable SVG/PNG source-form artwork. If you later distribute only rendered or compiled forms, also provide the complete corresponding source and necessary build/processing materials.
+- Mark material changes. Renaming/reorganizing alone should still be disclosed, as done in SOURCE.txt.
+- Publishing the entire upstream repository is not automatically required for a source-form subset, but hosting a matching source archive or repository is the simplest conservative compliance option.
+- Do not impose additional restrictions that conflict with recipients’ GPL rights.
+- Keep AUTHORS.txt, LICENSE.txt, and SOURCE.txt inside every downloadable Files or Folders pack.
+- Re-check upstream licensing when refreshing the artwork.
+
+This is a practical compliance summary, not legal advice.

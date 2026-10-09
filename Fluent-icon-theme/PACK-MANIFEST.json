@@ -1,0 +1,46 @@
+[
+  {
+    "root": "C:\\Milos\\IconCollections\\Fluent-icon-theme-master",
+    "project": "Fluent-icon-theme",
+    "style": "default",
+    "styleLabel": "Fluent-icon-theme - Default",
+    "filePack": true,
+    "genericFile": "Fluent-icon-theme-master\\Fluent-icon-theme-master\\src\\scalable\\mimetypes\\text-x-generic.svg",
+    "typeIcons": 70,
+    "filenameIcons": 0,
+    "folderPack": true,
+    "genericFolder": "Fluent-icon-theme-master\\Fluent-icon-theme-master\\src\\scalable\\places\\default-folder.svg",
+    "openedFolder": "Fluent-icon-theme-master\\Fluent-icon-theme-master\\src\\16\\places\\folder-open.svg",
+    "folderNameIcons": 0,
+    "systemIcons": [
+      "Documents",
+      "Downloads",
+      "Desktop",
+      "Music",
+      "Templates",
+      "Public"
+    ]
+  },
+  {
+    "root": "C:\\Milos\\IconCollections\\Fluent-icon-theme-master",
+    "project": "Fluent-icon-theme",
+    "style": "symbolic",
+    "styleLabel": "Fluent-icon-theme - Symbolic",
+    "filePack": true,
+    "genericFile": "Fluent-icon-theme-master\\Fluent-icon-theme-master\\src\\scalable\\mimetypes\\text-x-generic.svg",
+    "typeIcons": 6,
+    "filenameIcons": 0,
+    "folderPack": true,
+    "genericFolder": "Fluent-icon-theme-master\\Fluent-icon-theme-master\\src\\scalable\\places\\default-folder.svg",
+    "openedFolder": "Fluent-icon-theme-master\\Fluent-icon-theme-master\\src\\16\\places\\folder-open.svg",
+    "folderNameIcons": 0,
+    "systemIcons": [
+      "Documents",
+      "Downloads",
+      "Desktop",
+      "Music",
+      "Templates",
+      "Public"
+    ]
+  }
+]

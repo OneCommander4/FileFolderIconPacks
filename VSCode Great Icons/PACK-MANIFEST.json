@@ -1,0 +1,19 @@
+[
+  {
+    "root": "C:\\Milos\\IconCollections\\vscode-great-icons-main",
+    "project": "VSCode Great Icons",
+    "style": "svg",
+    "styleLabel": "VSCode Great Icons",
+    "filePack": true,
+    "genericFile": "vscode-great-icons-main\\vscode-great-icons-main\\icons\\file.png",
+    "typeIcons": 169,
+    "filenameIcons": 67,
+    "folderPack": true,
+    "genericFolder": "vscode-great-icons-main\\vscode-great-icons-main\\icons\\folders\\default.svg",
+    "openedFolder": null,
+    "folderNameIcons": 20,
+    "systemIcons": [
+      "Pictures"
+    ]
+  }
+]

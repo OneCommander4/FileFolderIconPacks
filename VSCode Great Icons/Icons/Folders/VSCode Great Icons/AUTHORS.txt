@@ -1,0 +1,4 @@
+============================================================
+AUTHORSHIP FIELD FROM: vscode-great-icons-main/package.json
+============================================================
+Emmanuel Béziat, contact@emmanuelbeziat.com, https://www.emmanuelbeziat.com

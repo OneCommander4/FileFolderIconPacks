@@ -1,0 +1,4 @@
+============================================================
+AUTHORSHIP FIELD FROM: vscode-material-icon-theme-main/package.json
+============================================================
+Material Extensions, material-icons-extensions@googlegroups.com, https://github.com/material-extensions

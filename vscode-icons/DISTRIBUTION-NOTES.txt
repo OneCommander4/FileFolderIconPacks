@@ -1,0 +1,14 @@
+vscode-icons — distribution notes
+
+Detected license family: CC BY-SA / mixed icon licensing
+
+Practical checklist for downloadable OneCommander ZIPs:
+- Attribute the original project and creators, link the source, and include the applicable license text or URL.
+- State that the package reorganizes and renames the files; do not imply upstream endorsement.
+- Distribute adaptations under CC BY-SA 4.0 or a permitted compatible license and do not add downstream restrictions.
+- Branded icons may retain separate copyright or trademark restrictions; verify those before commercial promotion.
+- Publishing the entire upstream repository is not inherently required by CC BY-SA, but keep a stable source link and the included attribution records.
+- Keep AUTHORS.txt, LICENSE.txt, and SOURCE.txt inside every downloadable Files or Folders pack.
+- Re-check upstream licensing when refreshing the artwork.
+
+This is a practical compliance summary, not legal advice.

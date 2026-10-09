@@ -1,0 +1,56 @@
+Project:
+vscode-icons
+
+Original repository:
+https://github.com/vscode-icons/vscode-icons
+
+Repository folder:
+vscode-icons-master
+
+Upstream version:
+13.0.0
+
+Upstream revision:
+Not detected (downloaded source snapshot)
+
+Primary licenses:
+Source code: MIT
+Icons: CC BY-SA 4.0; branded icons retain their respective copyright licenses
+
+Original license files:
+vscode-icons-master/LICENSE
+vscode-icons-master/README.md (License section)
+
+Original attribution:
+Roberto Huertas
+https://github.com/vscode-icons/vscode-icons/graphs/contributors
+
+Original icon location:
+vscode-icons-master/icons
+
+Association data:
+vscode-icons-master/src/iconsManifest/supportedExtensions.ts
+vscode-icons-master/src/iconsManifest/languages.ts
+
+Processing performed:
+- Selected active SVG file icons associated with generic file extensions.
+- Excluded disabled alternatives, exact-filename rules, filename globs, and folder icons.
+- Added language-manifest knownExtensions where the file manifest delegates association to a language ID.
+- Copied selected SVG files without modifying SVG artwork.
+- Renamed copied files using comma-separated extension-based OneCommander filenames.
+- Split unusually long alias lists across duplicate SVG copies so every extension remains represented.
+
+Additional name-match processing:
+- output/filename contains exact full-filename matches, including expanded upstream filename/extension combinations.
+- output/foldername contains exact folder-name matches using collapsed-folder artwork.
+- output/foldername/opened contains the corresponding opened-folder artwork.
+- Upstream manifest precedence was used to resolve duplicate matches.
+
+============================================================
+ONECOMMANDER PACKAGE ASSEMBLY
+============================================================
+
+Pack: vscode-icons
+Style: svg
+Category: Files
+Artwork was copied without visual modification. Files were reorganized and renamed for OneCommander matching.

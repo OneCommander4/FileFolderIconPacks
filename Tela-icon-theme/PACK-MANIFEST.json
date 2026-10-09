@@ -1,0 +1,48 @@
+[
+  {
+    "root": "C:\\Milos\\IconCollections\\Tela-icon-theme-master",
+    "project": "Tela-icon-theme",
+    "style": "default",
+    "styleLabel": "Tela-icon-theme - Default",
+    "filePack": true,
+    "genericFile": "Tela-icon-theme-master\\Tela-icon-theme-master\\src\\scalable\\mimetypes\\text-x-generic.svg",
+    "typeIcons": 43,
+    "filenameIcons": 0,
+    "folderPack": true,
+    "genericFolder": "Tela-icon-theme-master\\Tela-icon-theme-master\\src\\scalable\\places\\default-folder.svg",
+    "openedFolder": "Tela-icon-theme-master\\Tela-icon-theme-master\\src\\16\\places\\folder-open.svg",
+    "folderNameIcons": 0,
+    "systemIcons": [
+      "Documents",
+      "Downloads",
+      "Desktop",
+      "Music",
+      "Pictures",
+      "Templates",
+      "Public"
+    ]
+  },
+  {
+    "root": "C:\\Milos\\IconCollections\\Tela-icon-theme-master",
+    "project": "Tela-icon-theme",
+    "style": "symbolic",
+    "styleLabel": "Tela-icon-theme - Symbolic",
+    "filePack": true,
+    "genericFile": "Tela-icon-theme-master\\Tela-icon-theme-master\\src\\scalable\\mimetypes\\text-x-generic.svg",
+    "typeIcons": 2,
+    "filenameIcons": 0,
+    "folderPack": true,
+    "genericFolder": "Tela-icon-theme-master\\Tela-icon-theme-master\\src\\scalable\\places\\default-folder.svg",
+    "openedFolder": "Tela-icon-theme-master\\Tela-icon-theme-master\\src\\16\\places\\folder-open.svg",
+    "folderNameIcons": 0,
+    "systemIcons": [
+      "Documents",
+      "Downloads",
+      "Desktop",
+      "Music",
+      "Pictures",
+      "Templates",
+      "Public"
+    ]
+  }
+]
