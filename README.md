@@ -27,7 +27,7 @@ Visual variants are kept as separate OneCommander style packs. The current colle
 
 1. Download `OneCommander-FileFolderIconPacks-All.zip` from this repository's Releases page to install every pack, or download an individual `*-OneCommander.zip` file.
 2. Extract the archive.
-3. Copy its `Icons` directory into OneCommander's `UserResources` directory, merging the `Files` and `Folders` directories when prompted.
+3. Copy the extracted `Files` and `Folders` directories into OneCommander's existing `UserResources\Icons` directory, merging when prompted.
 4. Select the desired file and folder icon packs in OneCommander settings.
 
 The relevant destination normally has this shape:
@@ -42,7 +42,7 @@ OneCommander/
 
 The precise OneCommander installation or user-data path can vary by installation type.
 
-If you have already opened OneCommander's existing `UserResources\Icons` directory, copy the downloaded `Files` and `Folders` directories into it. Do not create an extra `Icons\Icons` level.
+The installation ZIP contains only `Files` and `Folders` at its root. Do not create an extra `Icons\Icons` level.
 
 ## Package structure
 
@@ -94,7 +94,7 @@ Brand and product icons may also be subject to trademark rules that are separate
 
 The repository includes `tools/Build-Releases.ps1`. It creates:
 
-- `OneCommander-FileFolderIconPacks-All.zip`, containing the complete `Icons` and `Notices` directories.
+- `OneCommander-FileFolderIconPacks-All.zip`, containing the complete `Files` and `Folders` directories at the archive root.
 - One installation-ready ZIP for every named style pack.
 - `SHA256SUMS.txt`, containing checksums for all generated ZIPs.
 

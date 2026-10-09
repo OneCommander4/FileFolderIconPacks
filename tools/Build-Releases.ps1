@@ -60,12 +60,11 @@ function New-ZipArchive {
     }
 }
 
-Push-Location $repositoryRoot
+Push-Location $iconsDirectory
 try {
     New-ZipArchive -FileName 'OneCommander-FileFolderIconPacks-All.zip' -RelativePaths @(
-        'Icons',
-        'Notices',
-        'README.md'
+        'Files',
+        'Folders'
     )
 
     $styleNames = @(
@@ -74,15 +73,15 @@ try {
     ) | Sort-Object -Unique
 
     foreach ($styleName in $styleNames) {
-        $archivePaths = @('README.md')
+        $archivePaths = @()
         $fileStyle = Join-Path $filesDirectory $styleName
         $folderStyle = Join-Path $foldersDirectory $styleName
 
         if (Test-Path -LiteralPath $fileStyle) {
-            $archivePaths += "Icons/Files/$styleName"
+            $archivePaths += "Files/$styleName"
         }
         if (Test-Path -LiteralPath $folderStyle) {
-            $archivePaths += "Icons/Folders/$styleName"
+            $archivePaths += "Folders/$styleName"
         }
 
         $safeName = (($styleName -replace '[^A-Za-z0-9._-]+', '-') -replace '-{2,}', '-').Trim('-')
