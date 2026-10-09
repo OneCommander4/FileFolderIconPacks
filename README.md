@@ -25,7 +25,7 @@ Visual variants are kept as separate OneCommander style packs. The current colle
 
 ## Installation
 
-1. Download the ZIP for the desired pack from this repository's Releases page.
+1. Download `OneCommander-FileFolderIconPacks-All.zip` from this repository's Releases page to install every pack, or download an individual `*-OneCommander.zip` file.
 2. Extract the archive.
 3. Copy its `Icons` directory into OneCommander's `UserResources` directory, merging the `Files` and `Folders` directories when prompted.
 4. Select the desired file and folder icon packs in OneCommander settings.
@@ -41,6 +41,8 @@ OneCommander/
 ```
 
 The precise OneCommander installation or user-data path can vary by installation type.
+
+If you have already opened OneCommander's existing `UserResources\Icons` directory, copy the downloaded `Files` and `Folders` directories into it. Do not create an extra `Icons\Icons` level.
 
 ## Package structure
 
@@ -82,7 +84,7 @@ Every file or folder style pack includes:
 - `LICENSE.txt` — the applicable upstream license text and notices.
 - `SOURCE.txt` — upstream project, source location, selected style, and repackaging information.
 
-Each project directory also includes `DISTRIBUTION-NOTES.txt` with a practical license checklist and `PACK-MANIFEST.json` describing the generated contents.
+The repository's `Notices` directory contains each upstream project's `DISTRIBUTION-NOTES.txt` and `PACK-MANIFEST.json`.
 
 Keep these files with every copy and downloadable ZIP. Do not apply a repository-wide license to the included artwork or remove the rights granted by an individual pack's license. Modified artwork must continue to follow its applicable copyleft or attribution requirements.
 
@@ -90,7 +92,21 @@ Brand and product icons may also be subject to trademark rules that are separate
 
 ## Preparing release ZIPs
 
-Create one release archive per project or style. The ZIP should open directly to the project's `Icons` directory and should retain all corresponding `AUTHORS.txt`, `LICENSE.txt`, and `SOURCE.txt` files.
+The repository includes `tools/Build-Releases.ps1`. It creates:
+
+- `OneCommander-FileFolderIconPacks-All.zip`, containing the complete `Icons` and `Notices` directories.
+- One installation-ready ZIP for every named style pack.
+- `SHA256SUMS.txt`, containing checksums for all generated ZIPs.
+
+To build them locally from PowerShell:
+
+```powershell
+./tools/Build-Releases.ps1
+```
+
+The local builder requires 7-Zip. The files are written to the untracked `release` directory.
+
+The `Build release assets` GitHub Actions workflow also runs automatically when a GitHub Release is published and attaches all generated ZIPs and `SHA256SUMS.txt` to that release. A manual workflow run stores the same files as a downloadable workflow artifact.
 
 For GPL-covered artwork, keep the editable SVG source and applicable notices available with the download. If a future release distributes only converted or compiled forms, also provide the matching editable source and any materials required to reproduce those forms.
 

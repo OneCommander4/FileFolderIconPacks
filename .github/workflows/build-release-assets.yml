@@ -1,0 +1,38 @@
+name: Build release assets
+
+on:
+  workflow_dispatch:
+  release:
+    types: [published]
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: windows-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v6
+
+      - name: Build combined and individual ZIPs
+        shell: pwsh
+        run: ./tools/Build-Releases.ps1
+
+      - name: Save ZIPs on manual runs
+        if: github.event_name == 'workflow_dispatch'
+        uses: actions/upload-artifact@v4
+        with:
+          name: OneCommander-icon-packs
+          path: |
+            release/*.zip
+            release/SHA256SUMS.txt
+          if-no-files-found: error
+
+      - name: Attach ZIPs to the published release
+        if: github.event_name == 'release'
+        shell: pwsh
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh release upload "${{ github.event.release.tag_name }}" release/*.zip release/SHA256SUMS.txt --clobber
